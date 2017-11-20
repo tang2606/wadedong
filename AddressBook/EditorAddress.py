@@ -22,7 +22,7 @@ cursor = connect.cursor()
 def Query_address():
     print_message.print_cxmenu()
     while True:
-        cxkey = int(input("\n请选择要查询的方式："))
+        cxkey = int(input("\n请选择要查询的方式（请输入编号）："))
         if cxkey == 1:
             cxuseridkey = [0]
             cxuseridkey[0] = int(input('请输入编号：'))
