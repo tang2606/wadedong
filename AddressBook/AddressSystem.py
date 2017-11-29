@@ -1,4 +1,3 @@
-# 连接数据库
 # !/usr/bin/python
 # -*- coding: UTF-8 -*-
 import pymysql.cursors

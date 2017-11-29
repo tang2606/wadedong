@@ -21,5 +21,4 @@ def print_cxmenu():
     print('8、返回主菜单')
 
 
-def Qc_Clear():
-    os.system('Clear')
+
