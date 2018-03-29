@@ -38,3 +38,5 @@ while True:
         break
     else:
         print("请输入正确的选项！！！\n \n")
+
+print('\n     结束！！')
