@@ -19,6 +19,3 @@ def print_cxmenu():
     print('6、查询所有联系人')
     print('7、清空屏幕显示')
     print('8、返回主菜单')
-
-
-
