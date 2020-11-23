@@ -1,0 +1,4 @@
+ DOMAIN-SUFFIX,local,
+ DOMAIN-KEYWORD,xytest
+ DOMAIN-KEYWORD,atof.xytest.io
+ DOMAIN-SUFFIX,safebrowsing.googleapis.com
